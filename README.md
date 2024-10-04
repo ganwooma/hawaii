@@ -1,2 +1,1 @@
-# -hawaii
- hawaii
+#진짜 줌
